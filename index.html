@@ -1,0 +1,20 @@
+---
+layout: default
+title: Home
+max-show-posts: 5
+---
+
+<div class="home-section">
+    <h1 class="post-title"><a href="{{ site.baseurl }}blog">Blog</a></h1>
+    {% include posts-list.html max=max-show-posts %}
+</div>
+
+<div class="home-section">
+    <h1 class="post-title"><a href="{{site.baseurl}}contributions">Contributions</a></h1>
+    {% include contributions-list.html %}
+</div>
+
+<div class="home-section">
+    <h1 class="post-title"><a href="{{site.baseurl}}projects">Projects</a></h1>
+    {% include projects-list.html %}
+</div>

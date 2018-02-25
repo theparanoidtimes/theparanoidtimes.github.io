@@ -1,0 +1,34 @@
+# Dependencies
+markdown:         kramdown
+highlighter:      rouge
+
+# Setup
+title:            the paranoid times
+tagline:          TestTagline
+description:      "Dejan Josifović's personal blog/portfolio."
+url:              http://theparanoidtimes.org
+baseurl:          /
+categories:       [projects blog contributions]
+
+author:
+    name:         Dejan Josifović
+    mail:         www.paranoidtimes@gmail.com
+
+plugins:
+  - jekyll-sitemap
+
+sass:
+  style: compressed
+
+# Custom vars
+version:          0.1
+twitter:          "@chewanaxe"
+twitter-url:      https://twitter.com/chewanaxe
+person-git:       "@28"
+person-git-url:   https://github.com/28
+proj-git:         "@theparanoidtimes"
+proj-git-url:     https://github.com/theparanoidtimes
+mail:             "www.paranoidtimes[at]gmail[dot]com"
+
+github:
+  repo:             https://github.com/theparanoidtimes/theparanoidtimes.github.io

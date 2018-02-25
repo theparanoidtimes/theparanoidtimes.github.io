@@ -1,0 +1,17 @@
+<div class="posts">
+    {% assign i = 0 %}
+    {% for post in site.categories.blog %}
+    <div>
+        <span>
+            <a href="{{ site.baseurl }}{{ post.url | remove_first: '/'}}">
+                {{ post.title }}
+            </a>
+        </span>
+        <span>{{ post.date | date_to_string }}</span>
+    </div>
+    {% assign i = i | plus: 1 %}
+    {% if i == include.max %}
+    {% break %}
+    {% endif %}
+    {% endfor %}
+</div>

@@ -4,4 +4,4 @@ Currently under construction...
 
 ## License
 
-Copyright (c) 2017 Dejan Josifović, the paranoid times
+Copyright (c) 2018 Dejan Josifović, the paranoid times
