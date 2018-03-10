@@ -4,8 +4,8 @@ highlighter:      rouge
 
 # Setup
 title:            the paranoid times
-tagline:          TestTagline
-description:      "Dejan Josifović's personal blog/portfolio."
+tagline:          "Just like the name"
+description:      "Dejan Josifović's personal blog/portfolio about programming and stuff."
 url:              http://theparanoidtimes.org
 baseurl:          /
 categories:       [projects blog contributions]
