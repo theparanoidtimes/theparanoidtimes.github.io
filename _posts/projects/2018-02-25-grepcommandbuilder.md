@@ -18,4 +18,4 @@ but new ones will be added in the future.
 Check it out [here]({{ page.project-url }}).
 
 This is a ClojureScript with Reagent application, if you want to check out the
-code, see the Github [repo]({{ page.project-repo }}).
+code, see the GitHub [repo]({{ page.project-repo }}).

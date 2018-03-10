@@ -9,6 +9,7 @@ description:      "Dejan Josifović's personal blog/portfolio about programming 
 url:              http://theparanoidtimes.org
 baseurl:          /
 categories:       [projects blog contributions]
+permalink:        pretty
 
 author:
     name:         Dejan Josifović
