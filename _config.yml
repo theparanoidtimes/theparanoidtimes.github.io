@@ -7,7 +7,6 @@ title:            the paranoid times
 tagline:          "Just like the name"
 description:      "Dejan Josifović's personal blog/portfolio about programming and stuff."
 url:              http://theparanoidtimes.org
-baseurl:          /tpt/
 categories:       [projects blog contributions]
 permalink:        pretty
 
