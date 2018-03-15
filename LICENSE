@@ -1,20 +1,3 @@
-# The Paranoid Times Web site
-
-It's my personal blog / portfolio site.
-
-## Usage
-
-The site is developed with [Jekyll](https://jekyllrb.com/). In order to set it up
-and run it locally install Jekyll and then do the following:
-``` shell
-git clone https://github.com/theparanoidtimes/theparanoidtimes.github.io.git
-
-bundle exec jekyll serve
-```
-This will start up a Jekyll server and site will be on `localhost:4000`.
-
-## License
-
 Copyright (c) 2018 Dejan Josifović, the paranoid times
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of
