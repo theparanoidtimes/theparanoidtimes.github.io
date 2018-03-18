@@ -3,6 +3,7 @@ layout: page
 title: tabellarium
 category: projects
 project-repo: https://github.com/theparanoidtimes/tabellarium
+permalink: /:categories/:title
 ---
 
 *tabellarium* is a library that provides the means to execute tasks against

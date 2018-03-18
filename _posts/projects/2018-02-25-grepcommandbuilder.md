@@ -4,6 +4,7 @@ title: grep command builder
 category: projects
 project-repo: https://github.com/theparanoidtimes/grepcommandbuilder
 project-url: http://theparanoidtimes.org/grepcommandbuilder/
+permalink: /:categories/:title
 ---
 
 One cannot always remember all the possibilities of the `grep` command if it
