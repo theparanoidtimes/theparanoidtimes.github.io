@@ -93,4 +93,4 @@ These can possibly be just another tasks that are passed to the
 `executeForEachEmail` and probably be refactored in that manner in the future,
 but for now they are separate methods.
 
-Check out the [repo]({{ page.project-url }}) for source.
+Check out the [repo]({{ page.project-repo }}) for source.
