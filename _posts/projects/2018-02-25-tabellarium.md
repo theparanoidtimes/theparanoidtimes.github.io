@@ -22,7 +22,7 @@ MailboxTaskExecutor executor =
     ("hostAddress", "username", "password", "Inbox");
 ```
 The constructor arguments are self-explanatory. `ImapMailboxFolderTaskExecutor`
-has some other settings like port number, should use IMAPS and such. Besides
+has some other settings like port number, 'should use IMAPS' and such. Besides
 them there are 3 things that should require some attention. In code:
 ```java
 // after doing something with an e-mail message
@@ -46,11 +46,11 @@ executor.executeForEachEmail(message -> {
 });
 ```
 This will connect to the mailbox with information from the constructor arguments
-and execute the task defined foe each e-mail. The settings defined before also
-come into play here.
+and execute the task defined against each e-mail message. The settings defined before
+also come into play here.
 
 If any exception occurs during the task execution the executor will try to revert
-the status flags if they are changed - revert *SEEN* and *DELETED*.
+the status flags if they are changed - specifically revert *SEEN* and *DELETED*.
 
 There are some built in tasks - email handlers because they implement the
 `EmailHandler` interface - in the library that provide some basic
@@ -90,7 +90,7 @@ List<Message> messages = executor.retrieveEmails();
 boolean result = executor.areThereRemainingEmails();
 ```
 These can possibly be just another tasks that are passed to the
-`executeForEachEmail` and probably be refactored in that manner in the future,
-but for now they are separate methods.
+`executeForEachEmail` method and probably will be refactored in that manner
+in the future, but for now they are separate methods.
 
 Check out the [repo]({{ page.project-repo }}) for source.
