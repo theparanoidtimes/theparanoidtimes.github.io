@@ -1,6 +1,6 @@
 // Variables
 $site-background-color: #2a2b2b;
-$sidebar-background-color: #2a2b2b; 
+$sidebar-background-color: #2a2b2b;
 $primary-font-family: "Source Code Pro", monospace;
 $primary-font-family-bck: "PT Sans", Helvetica, Arial, sans-serif;
 $heading-font-family: "EB Garamond", serif;
@@ -401,7 +401,7 @@ a.sidebar-nav-item:focus {
 
 @media (min-width: 48em) {
   .content {
-    max-width: 38rem;
+    max-width: 40rem;
     margin-left: 20rem;
     margin-right: 2rem;
   }
@@ -474,6 +474,16 @@ a.sidebar-nav-item:focus {
 
 .related-posts li a:hover small {
   color: inherit;
+}
+
+.footnote-numbering {
+  font-size: 75%;
+  color: $link-color;
+}
+
+.footnote-text {
+  font-size: 75%;
+  font-style: italic;
 }
 
 // Thin Scrollbar
