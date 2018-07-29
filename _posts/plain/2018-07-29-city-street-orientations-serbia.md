@@ -18,11 +18,11 @@ play with the great tool that is [*osmnx*]({{ page.osmnx-repo }})). I strongly
 suggest reading the mentioned blog (and the follow up one mentioned there) before going
 further.
 
-Setting up the environment and easy - this [post]({{ page.osmnx-install-url }})
+Setting up the environment is easy - this [post]({{ page.osmnx-install-url }})
 describes how to install and use *osmnx* and there are a lot of examples in the form of
 *Jupyter* notebooks [here]({{ page.osmnx-example-repo }}). [This]({{ page.street-orientations-example-repo }})
-particular was used to create the city street orientations images, although I
-used a script because I find it easier. You can see the script [here]({{ page.osmnx-script-repo }})<sup id="f1r">[1](#f1)</sup>.
+particular one was used to create the city street orientations images, although I
+used a script because I found it easier. You can see the script [here]({{ page.osmnx-script-repo }})<sup id="f1r">[1](#f1)</sup>.
 
 So, naturally, my home town came first.
 
@@ -59,7 +59,7 @@ And Kosovo:
 
 Serbia is a land with a really unique geography and really unique sequence of
 events that happened throughout its history. Various geopolitical moments had
-impact on all aspects of human living and doing in the part, one of them being
+impact on all aspects of human living and doing in the region, one of them being
 the way cities were built. Layout of the city streets is different for almost
 every city which can be seen by the pictures in this post. I'm certain that
 it is possible to find a connection between people who lived there, geographical,
@@ -68,7 +68,7 @@ To me this is a very interesting topic for a research.
 
 I'm not trying to be the 'here is the data, I'm done, now someone do the
 research' guy, but at the first glance, there are not many resources online that
-tackle the question of urbanism in Serbia so I it is really hard to find any data
+tackle the question of urbanism in Serbia so it is really hard to find any data
 to run this images by. Certainly there are books in the archives somewhere that
 can be used in such a research, but just finding them can be a very time consuming
 effort.
