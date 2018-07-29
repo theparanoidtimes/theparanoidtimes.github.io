@@ -10,6 +10,8 @@ osmnx-script-repo: https://github.com/28/osmnx-city-street-network-orientations
 street-orientations-example-repo: https://github.com/gboeing/osmnx-examples/blob/master/notebooks/17-street-network-orientations.ipynb
 gboeing-t: https://twitter.com/gboeing
 belgrade-map: https://www.openstreetmap.org/#map=12/44.8084/20.5146
+
+published: false
 ---
 
 When I saw this amazing blog [post]({{ page.gboeing-blog-url }}) by [Geoff Boeing]({{ page.gboeing-t }})
