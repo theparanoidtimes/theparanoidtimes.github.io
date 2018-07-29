@@ -86,7 +86,7 @@ Any discussion is welcome on [Twitter]({{ site.twitter-url }}).
 
 ---
 {% include footnote.html n=1 nid="f1" text="You may notice that for some cities I had to
-query for municipality because towns were not available on their own. Municipalities
+query for 'municipality' because towns were not available on their own. Municipalities
 include a wider region than the city so this could have had impact on the end results." r="#f1r" %}
 {% include footnote.html n=2 nid="f2" text="Division was not based on any political,
 religious or ethnic criteria, I just found it easier to do it this way." r="#f2r" %}
