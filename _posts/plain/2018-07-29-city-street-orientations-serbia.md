@@ -10,8 +10,6 @@ osmnx-script-repo: https://github.com/28/osmnx-city-street-network-orientations
 street-orientations-example-repo: https://github.com/gboeing/osmnx-examples/blob/master/notebooks/17-street-network-orientations.ipynb
 gboeing-t: https://twitter.com/gboeing
 belgrade-map: https://www.openstreetmap.org/#map=12/44.8084/20.5146
-
-published: false
 ---
 
 When I saw this amazing blog [post]({{ page.gboeing-blog-url }}) by [Geoff Boeing]({{ page.gboeing-t }})
@@ -41,7 +39,7 @@ Vojvodina:
 
 ![Vojvodina cities streets](/public/img/street/vojvodina_s.png "Vojvodina cities streets")
 
-Central Serbia:
+Central Serbia (with Belgrade):
 
 ![Central Serbia cities streets](/public/img/street/central_s.png "Central Serbia cities streets")
 
@@ -71,13 +69,10 @@ To me this is a very interesting topic for a research.
 I'm not trying to be the 'here is the data, I'm done, now someone do the
 research' guy, but at the first glance, there are not many resources online that
 tackle the question of urbanism in Serbia so it is really hard to find any data
-to run this images by. Certainly there are books in the archives somewhere that
-can be used in such a research, but just finding them can be a very time consuming
-effort.
-
-I will have my eyes open for anything related and I will try to post anything
-that I can find here. Meanwhile, I hope that someone gets inspired to conduct
-any kind of research (or they already did). One thing is certain - [*osmnx*]({{ page.osmnx-repo }})
+to run this images by. But, there are quite a few books written on the subject and
+I will try to check them out although it could take some time. I will post anything
+that I find here. Meanwhile, I hope that someone also gets inspired to conduct
+any kind of research (or they already did which is great). One thing is certain - [*osmnx*]({{ page.osmnx-repo }})
 is the tool for the job.
 
 Thanks to [Geoff Boeing]({{ page.gboeing-t }}) for the inspiration. :-)
@@ -88,7 +83,8 @@ Any discussion is welcome on [Twitter]({{ site.twitter-url }}).
 
 ---
 {% include footnote.html n=1 nid="f1" text="You may notice that for some cities I had to
-query for 'municipality' because towns were not available on their own. Municipalities
-include a wider region than the city so this could have had impact on the end results." r="#f1r" %}
+query for 'municipality' and that's because towns were not available on their own. Municipalities
+include a wider region than the city so this arguably could have had impact on the
+end results." r="#f1r" %}
 {% include footnote.html n=2 nid="f2" text="Division was not based on any political,
 religious or ethnic criteria, I just found it easier to do it this way." r="#f2r" %}
