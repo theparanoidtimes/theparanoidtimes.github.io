@@ -143,6 +143,8 @@ into the programming collective since it can spark new ideas and renew the motiv
 in people. It is also good to be creative in doing so since it brings fun to
 learning. I hope this little experiment proves that statement.
 
+*Fin*
+
 ---
 {% include footnote.html n=1 nid="f1" text="We send multipart e-mail messages always even
 though only a small percent of e-mail clients can't read HTML messages." r="#f1r" %}
