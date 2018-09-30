@@ -81,6 +81,8 @@ Any discussion is welcome on [Twitter]({{ site.twitter-url }}).
 
 *Fin*
 
+This post has a [version](/blog/2018/09/30/city-street-orientations-serbia-rs/) in Serbian also.
+
 ---
 {% include footnote.html n=1 nid="f1" text="You may notice that for some cities I had to
 query for 'municipality' and that's because towns were not available on their own. Municipalities
