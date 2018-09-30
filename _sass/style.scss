@@ -171,7 +171,6 @@ code, pre {
 
 code {
   color: #993030;
-  white-space: pre-wrap;
   background-color: #222;
   padding: .25em .5em;
   font-size: 85%;
@@ -186,11 +185,7 @@ pre {
   padding: 1rem;
   font-size: .8rem;
   line-height: 1.4;
-  white-space: pre;
-  white-space: pre-wrap;
-  word-break: break-all;
-  word-wrap: break-word;
-  overflow: auto !important;
+  overflow-x: scroll;
 }
 
 pre code {
@@ -198,7 +193,6 @@ pre code {
   font-size: 100%;
   color: inherit;
   background-color: transparent;
-  overflow: auto;
 }
 
 hr {
