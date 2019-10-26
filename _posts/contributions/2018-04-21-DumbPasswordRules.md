@@ -18,7 +18,8 @@ check it out [here]({{ page.dpr-repo }}).
 
 I have made a couple of contributions to the cause:
 * Raiffeisen Bank Serbia;
-* MLB.com.
+* MLB.com;
+* Banca Intesa Serbia.
 
 Check out the fork [here]({{ page.project-repo }}).
 
