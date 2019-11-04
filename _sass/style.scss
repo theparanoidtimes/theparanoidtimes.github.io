@@ -364,9 +364,12 @@ a.sidebar-nav-item:focus {
   font-weight: bold;
 }
 
-.sidebar-contact,
-.sidebar-copy {
+.sidebar-contact {
   font-size: 75%;
+}
+
+.sidebar-copy {
+  font-size: 65%;
 }
 
 //Sticky sidebar
