@@ -21,7 +21,7 @@ sass:
   style: compressed
 
 # Custom vars
-version:          0.1
+version:          0.2
 twitter:          "@chewanaxe"
 twitter-url:      https://twitter.com/chewanaxe
 person-git:       "@28"
