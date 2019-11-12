@@ -6,7 +6,7 @@ highlighter:      rouge
 title:            the paranoid times
 tagline:          "Just like the name"
 description:      "Dejan Josifović's blog|portfolio"
-url:              http://theparanoidtimes.org
+url:              https://theparanoidtimes.org
 categories:       [projects blog contributions]
 permalink:        pretty
 
