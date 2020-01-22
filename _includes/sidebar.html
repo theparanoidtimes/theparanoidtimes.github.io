@@ -1,41 +1,43 @@
 <div class="sidebar">
-  <div class="container sidebar-sticky">
-    <div class="sidebar-about">
-      <h1>
-        <a href="{{ site.baseurl }}/">
-          {{ site.title | replace: " ", "<br />"}}
-        </a>
-      </h1>
-      <p class="lead">{{ site.description }}</p>
-    </div>
+	<div class="container sidebar-sticky">
+		<div class="sidebar-about">
+			<h1>
+				<a href="{{ site.baseurl }}/">
+					{{ site.title | replace: " ", "<br />"}}
+				</a>
+			</h1>
+			<p class="lead">{{ site.description }}</p>
+		</div>
 
-    <nav class="sidebar-nav">
+		<nav class="sidebar-nav">
 				<a class="sidebar-nav-item{% if page.url == site.baseurl %} active{% endif %}" href="{{ site.baseurl }}/"><i>Home</i></a>
 
 				{% assign pages_list = site.pages %}
 				{% for node in pages_list %}
-				  {% if node.title != null %}
-				    {% if node.layout == "page" %}
-              {% unless node.navigable == false %}
-                <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{ site.baseurl }}{{ node.url }}">{{ node.title }}</a>
-              {% endunless %}
-				    {% endif %}
-				  {% endif %}
+					{% if node.title != null %}
+						{% if node.layout == "page" %}
+							{% unless node.navigable == false %}
+								<a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{ site.baseurl }}{{ node.url }}">{{ node.title }}</a>
+							{% endunless %}
+						{% endif %}
+					{% endif %}
 				{% endfor %}
-    </nav>
+		</nav>
 
-    <div class="sidebar-contact">
-        <p>Warning brand inconsistency!<br />
-           GitHub:<br />
-           <a href="{{ site.person-git-url }}">{{ site.person-git }}</a> and <a href="{{ site.proj-git-url }}">{{ site.proj-git }}</a><br />
-           Twitter:<br />
-           <a href="{{ site.twitter-url }}">{{ site.twitter }}</a><br />
-           E-mail:<br />
-           <a>{{ site.mail }}</a></p>
-    </div>
+		<div class="sidebar-contact">
+				<p>Warning brand inconsistency!<br />
+					 GitHub:<br />
+					 <a href="{{ site.person-git-url }}">{{ site.person-git }}</a> and <a href="{{ site.proj-git-url }}">{{ site.proj-git }}</a><br />
+					 Twitter:<br />
+					 <a href="{{ site.twitter-url }}">{{ site.twitter }}</a><br />
+					 E-mail:<br />
+					 <a>{{ site.mail }}</a><br />
+					 <a href="{{ site.pgp }}">(PGP Public key)</a>
+				</p>
+		</div>
 
-    <p class="sidebar-privacy"><a href="{{ site.baseurl }}/privacy">Privacy notice</a></p>
+		<p class="sidebar-privacy"><a href="{{ site.baseurl }}/privacy">Privacy notice</a></p>
 
-    <p class="sidebar-copy">&copy;&nbsp;2018-{{ site.time | date: '%Y' }}&nbsp;theparanoidtimes.org All rights reserved.</p>
-  </div>
+		<p class="sidebar-copy">&copy;&nbsp;2018-{{ site.time | date: '%Y' }}&nbsp;theparanoidtimes.org All rights reserved.</p>
+	</div>
 </div>
