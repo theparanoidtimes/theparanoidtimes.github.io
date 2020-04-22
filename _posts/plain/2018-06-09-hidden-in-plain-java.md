@@ -7,7 +7,7 @@ filer-repo: https://github.com/theparanoidtimes/filer
 java-test-file-url: https://github.com/theparanoidtimes/filer/blob/master/java/FilerMain.java
 ---
 
-Today we are able to receive dozens of e-mail messages in our mailbox daily.
+Today we can receive dozens of e-mail messages in our mailbox daily.
 Most of them are related to some marketing campaign, TC updates, promotions etc.
 that we take for granted and in most cases they all get deleted. However, all
 these are the result of a huge effort from marketing and development teams that
@@ -37,7 +37,7 @@ library<sup id="f2r">[2](#f2)</sup>.
 
 However, when I tried to introduce this library to my colleagues there was a
 slight rejection. Although the whole team is made of Java programmers none was
-familiar with Clojure. So in order to bring the language a bit closer to them
+familiar with Clojure. So to bring the language a bit closer to them
 and hopefully motive them to start learning it I decided to, as some kind of
 challenge, create a project that will provede a seamless transition from Java to
 Clojure.
@@ -78,7 +78,7 @@ them:
 ```
 
 The code above exposes the wrapper functions as static methods and introduces
-two interfaces which I will explain later. In order for this to work the namespace
+two interfaces which I will explain later. For this to work the namespace
 in question should be *aot* compiled, so the following line was added to `project.clj`:
 ```clojure
 :aot [org.theparanoidtimes.filer.html.assertion]
@@ -126,12 +126,12 @@ Boolean result = assertOnNodeContent(testHtml, "li", content -> !content.equals(
 
 With Java's lambda expressions it is really easy to transition to Clojure functional
 point of view. Also there is a slight similarity in the looks in both invocations.
-More interfaces can be introduced in order to cover all functionalities of *filer*.
+More interfaces can be introduced to cover all functionalities of *filer*.
 But that is not the point of this experiment and it is also not practical. The
 point was to bring Clojure closer to the user via plain Java.
 
 Having this kind of Java library is not practical simply because it is not
-maintainable in any way. In order to add some new functionality or change the
+maintainable in any way. To add some new functionality or change the
 existing, one must do so in multiple layers in Clojure and recompile the library
 to use it in Java code. Also, if anything goes wrong the error messages are
 completely incomprehensible and it is almost impossible to debug. So this kind

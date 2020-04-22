@@ -7,8 +7,8 @@ game-steam-page: https://store.steampowered.com/app/846110/The_friends_of_Ringo_
 ---
 
 _The friends of Ringo Ishikawa_ is a game, an experience I didn't know
-I needed. When you start the game you really don't know what are you
-getting into yet. The game really takes its sweet time to tell you about
+I needed. When you start the game you don't know what are you
+getting into yet. The game takes its sweet time to tell you about
 itself. Or should I say you can take your sweet time to find out what
 is this game about.
 
@@ -16,7 +16,7 @@ The game starts with you controlling the protagonist Ringo who is
 immediately caught up in a fight with a rival gang alongside his
 friend Ken. From the start the game evokes the feeling of old fighting
 games with its minimalistic controls - only three buttons plus the
-movement keys. You fight in train then in a train station and later
+movement keys. You fight in the train than in a train station and later
 in the streets of Ringo's (unnamed) hometown. At this point you are
 certain that this is a fighting game until the game progresses to
 a time year later than the introduction scenario.
@@ -28,16 +28,16 @@ not required to participate in any fighting while exploring the town.
 After a while it felt like a complete opposite to a fighting game.
 I've spent a couple of (game) days roaming around waiting for the 
 game to guide me. I was waiting for a quest-like mechanic. When enough
-time passed it suddenly hit me! This game is a real life simulation
-and I can do what ever I want! At this point all the wonders of this
+time passed it suddenly hit me! This game is a real-life simulation
+and I can do whatever I want! At this point all the wonders of this
 game have shown up.
 
 I'm Ringo, my group's captain in my town doing what I want with my
-life. I read, I smoke, I eat (a lot), I get in occasional fight if I
-want etc. The freedom to do stuff while gently being guided by the game
+life. I read, I smoke, I eat (a lot), I get in an occasional fight if I
+want, etc. The freedom to do stuff while gently being guided by the game
 into the story direction is one of the biggest pluses of
-this game. Along side, a beautiful pixel art design of the city
-that will appeal to anyone with the slightest interest in Japan
+this game. Alongside, a beautiful pixel art design of the city
+that will appeal to anyone with the slightest interest in Japanese
 aesthetics. The whole adventure is accompanied by a great music
 soundtrack that I'm already looking to buy. The game itself ran
 fine for me. There were some graphic bugs like a pedestrian spawning
@@ -52,22 +52,22 @@ an essential thing for a gang captain.
 On the other hand, no game is perfect and neither is this one. The
 main flaw, for me, was completely related to the storytelling.
 The ending felt rushed and there are a lot of loose story
-threads we never get to finish. The gentle guidance, now pushes you
-of the cliff directly to the game end. And by the time I got to the end
-I was really emotionally invested in the characters and the story
+threads we never get to finish. The gentle guidance now pushes you
+off the cliff directly to the game end. And by the time I got to the end
+I was emotionally invested in the characters and the story
 that I was heartbroken when the game ended. I wanted to know all:
 what happened after the double date, what happened with Goro and Ken,
-with Masaru and Murakawa etc. The really liked the story and it has
-a great potential, but it was poorly realized at the end.
+with Masaru and Murakawa, etc. The really liked the story and it has
+great potential, but it was poorly realized at the end.
 
 That being said, I still encourage people to buy and play this game.
 If you like being guided by the game all throughout or feel like you
 are going to be aggravated by the ending this game is not for you. 
 For me the experience, in whatever way realized, is worth the money.
-_TFORI_ is a mould breaking game, a welcome novelty in the game world
+_TFORI_ is a mold-breaking game, a welcome novelty in the game world
 and certainly a manifest of the genre I will closely follow in
 the future.
 
-You can checkout (and buy) the game [here]({{ page.game-steam-page }}).
+You can check out (and buy) the game [here]({{ page.game-steam-page }}).
 
 _Fin_

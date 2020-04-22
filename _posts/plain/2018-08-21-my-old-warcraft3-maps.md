@@ -10,10 +10,10 @@ patch-notes-url: https://us.battle.net/forums/en/bnet/topic/20767766689
 Since Warcraft 3 got [much love recently]({{ page.patch-notes-url }}) I decided
 to share some old maps that I've made with a friend back in a day.
 
-First one is a old DotA clone that parodies the local jet set. It has three
-lanes, creeps that differ between them, items, towers etc. Be careful because if
+The first one is an old DotA clone that parodies the local jet set. It has three
+lanes, creeps that differ between them, items, towers, etc. Be careful because if
 you die a random item from your inventory drops so someone can steal it. The map
-can be aggravating, but at the same time really fun. Here are some screenshots:
+can be aggravating, but at the same time fun. Here are some screenshots:
 
 <img src="/public/img/war3/tv1.png" alt="War3 map screenshot" width="90%"/>
 <img src="/public/img/war3/tv2.png" alt="War3 map screenshot" width="90%"/>
