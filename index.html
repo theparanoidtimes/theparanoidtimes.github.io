@@ -1,12 +1,11 @@
 ---
 layout: default
 title: Home
-max-show-posts: -1
 ---
 
 <div class="home-section">
     <h1 class="post-title"><a href="{{ site.baseurl }}/blog">Blog</a></h1>
-    {% include posts-list.html max=page.max-show-posts %}
+    {% include posts-list.html max=site.max-show-posts %}
 </div>
 
 <div class="home-section">
