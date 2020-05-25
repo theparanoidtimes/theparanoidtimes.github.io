@@ -22,7 +22,7 @@ This is the `:dependency` key Leiningen from `project.clj` file:
 
 The library exposes only one variable which is an easter egg constructor.
 It accepts only one parameter, a function that will be called when
-the Konami code is inputted. The function represent the easter egg itself
+the Konami code is inputted. The function represents the easter egg itself
 and it can do whatever is needed.
 
 Hello world example is to display a message:
@@ -34,7 +34,7 @@ Hello world example is to display a message:
 (def easter-egg (js/Konami. (fn [] (js/alert "Hello Konami code!"))))
 ```
 
-As mentioned the argument function can do anything. For example it
+As mentioned the argument function can do anything. For example, it
 can redirect you to a different (secret) page:
 
 ``` clojure
