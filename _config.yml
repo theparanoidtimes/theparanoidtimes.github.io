@@ -7,7 +7,7 @@ title:            the paranoid times
 tagline:          "Just like the name"
 description:      "Dejan Josifović's blog|portfolio"
 url:              https://theparanoidtimes.org
-categories:       [projects blog contributions]
+categories:       [projects blog]
 permalink:        pretty
 
 author:
@@ -21,7 +21,7 @@ sass:
   style: compressed
 
 # Custom vars
-version:          0.2
+version:          1.0
 twitter:          "@chewanaxe"
 twitter-url:      https://twitter.com/chewanaxe
 person-git:       "@28"

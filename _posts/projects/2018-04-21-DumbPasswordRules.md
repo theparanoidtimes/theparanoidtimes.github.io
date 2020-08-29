@@ -1,7 +1,8 @@
 ---
 layout: page
 title: Dumb password rules
-category: contributions
+category: projects
+
 project-repo: https://github.com/28/dumb-password-rules
 dpr-repo: https://github.com/duffn/dumb-password-rules
 ---

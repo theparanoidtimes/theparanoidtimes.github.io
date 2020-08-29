@@ -3,7 +3,7 @@ layout: post
 title: How to use the konami-js library in a ClojureScript project
 category: blog
 
-contribution-url: /contributions/2020/05/24/konami-cljsjs/
+contribution-url: /projects/2020/05/24/konami-cljsjs/
 project-repo-url: https://github.com/28/konami-cljs-test
 ---
 

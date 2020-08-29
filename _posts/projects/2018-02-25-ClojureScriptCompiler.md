@@ -1,7 +1,8 @@
 ---
 layout: page
 title: ClojureScript compiler contribution
-category: contributions
+category: projects
+
 project-repo: https://github.com/28/openlayers-cljs-compile-error-repo
 ims-url: https://github.com/28/imstransport-web-site
 clojurians-url: http://clojurians.net/

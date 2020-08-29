@@ -1,7 +1,7 @@
 ---
 layout: page
 title: konami-js library to cljsjs project
-category: contributions
+category: projects
 
 konami-js-url: http://snaptortoise.github.io/konami-js/
 cljsjs-url: http://cljsjs.github.io
