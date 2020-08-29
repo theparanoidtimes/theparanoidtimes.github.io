@@ -43,4 +43,6 @@ can redirect you to a different (secret) page:
 
 Once defined the `easter-egg` var can remain untouched.
 
+You can see the whole project [here]({{ page.project-repo-url }}).
+
 Happy easter egg planting!
