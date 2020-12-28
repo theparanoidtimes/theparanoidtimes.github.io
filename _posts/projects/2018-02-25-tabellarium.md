@@ -2,7 +2,7 @@
 layout: page
 title: tabellarium
 category: projects
-project-repo: https://github.com/theparanoidtimes/tabellarium
+project-repo: https://github.com/28/tabellarium
 permalink: /:categories/:title
 ---
 

@@ -3,8 +3,8 @@ layout: post
 title: Hidden in plain Java
 category: blog
 filer-url: /projects/filer
-filer-repo: https://github.com/theparanoidtimes/filer
-java-test-file-url: https://github.com/theparanoidtimes/filer/blob/master/java/FilerMain.java
+filer-repo: https://github.com/28/filer
+java-test-file-url: https://github.com/28/filer/blob/master/java/FilerMain.java
 ---
 
 Today we can receive dozens of e-mail messages in our mailbox daily.
