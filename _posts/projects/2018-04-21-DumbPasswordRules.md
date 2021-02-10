@@ -18,9 +18,10 @@ have dumb rules when creating a password for an account or similar. You can
 check it out [here]({{ page.dpr-repo }}).
 
 I have made a couple of contributions to the cause:
-* Raiffeisen Bank Serbia;
+* _[Updated 09.02.2021]_ Raiffeisen Bank Serbia;
 * MLB.com;
-* Banca Intesa Serbia.
+* Banca Intesa Serbia;
+* _[Added 10.02.2021] Vip mobile Serbia._
 
 Check out the fork [here]({{ page.project-repo }}).
 
