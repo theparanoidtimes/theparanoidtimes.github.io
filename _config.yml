@@ -16,9 +16,16 @@ author:
 
 plugins:
   - jekyll-sitemap
+  - jekyll-feed
 
 sass:
   style: compressed
+
+github:
+  repo:           https://github.com/theparanoidtimes/theparanoidtimes.github.io
+
+feed:
+  posts_limit: 20
 
 # Custom vars
 version:          1.2
@@ -31,6 +38,3 @@ proj-git-url:     https://github.com/theparanoidtimes
 mail:             "www.paranoidtimes[at]gmail[dot]com"
 pgp:              https://keys.openpgp.org/vks/v1/by-fingerprint/54477C6E6E8DCA3795500E40C99BC8906D7AF108
 max-show-posts:   -1
-
-github:
-  repo:             https://github.com/theparanoidtimes/theparanoidtimes.github.io
