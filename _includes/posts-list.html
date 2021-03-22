@@ -2,15 +2,16 @@
     {% assign i = 0 %}
     {% for post in site.categories.blog %}
     <div>
-        <span>
-            <a href="{{ site.baseurl }}{{ post.url }}">
-                {{ post.title }}
-            </a>
-        </span>
-        <span>{{ post.date | date_to_string }}</span>
+	<span>
+	    <a href="{{ site.baseurl }}{{ post.url }}">
+		{{ post.title }}
+	    </a>
+	</span>
+	<span>{{ post.date | date_to_string }}</span>
     </div>
     {% assign i = i | plus: 1 %}
     {% if i == include.max %}
+    <a href="{{ site.baseurl }}/blog"><i><small>(more posts)</small></i></a>
     {% break %}
     {% endif %}
     {% endfor %}
